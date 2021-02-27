@@ -1,2 +1,4 @@
 # Shelter-app
-a java and javafx application for managing animal shelters
+A java and javafx application to help manage animal shelters.
+It stores information about animals and shelters
+
